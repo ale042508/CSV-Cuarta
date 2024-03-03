@@ -1,0 +1,8 @@
+C:\Users\Orozco\Documents\BD\CSV\CSV\bin\Debug\CSV.exe.config
+C:\Users\Orozco\Documents\BD\CSV\CSV\bin\Debug\CSV.exe
+C:\Users\Orozco\Documents\BD\CSV\CSV\bin\Debug\CSV.pdb
+C:\Users\Orozco\Documents\BD\CSV\CSV\obj\Debug\CSV.csproj.AssemblyReference.cache
+C:\Users\Orozco\Documents\BD\CSV\CSV\obj\Debug\CSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orozco\Documents\BD\CSV\CSV\obj\Debug\CSV.csproj.CoreCompileInputs.cache
+C:\Users\Orozco\Documents\BD\CSV\CSV\obj\Debug\CSV.exe
+C:\Users\Orozco\Documents\BD\CSV\CSV\obj\Debug\CSV.pdb
